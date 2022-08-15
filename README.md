@@ -17,3 +17,6 @@ It will be really useful in future .
     - Change your name
     - Check your updated name on Decentralized Identity
     - Currently it just supports name , but we can do much more like social media handles, awatar etc.
+
+### Deployment Link
+https://decentralized-identity.vercel.app/
